@@ -1,0 +1,6 @@
+AD=Deniz
+ID=001
+AD=Ece
+ID=002
+AD=Mert
+ID=003
